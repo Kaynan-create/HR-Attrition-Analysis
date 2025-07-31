@@ -80,12 +80,22 @@ Majority of attrition cases came from employees rating work-life balance as 2 or
 Most attrition occurred among employees with satisfaction scores of 2 or 3.
 
 *🔍 Insight: Moderate to low satisfaction correlates with high attrition. Suggests the need for engagement programs and performance feedback systems.*
-## ✅ Final Recommendations
+## 💡 Recommendations
 - Deep-dive into R&D and Sales departments – Explore stress factors, career growth issues, or leadership gaps.
 - Engage younger and single employees with mentorship, career path clarity, and flexible benefits.
 - Improve work-life balance through remote options, wellness programs, or workload redistribution.
 - Address dissatisfaction drivers by conducting stay interviews and anonymous surveys.
 ## Dashboard Preview
+![HR Analysis Dashboard](HR_Analysis_Dashboard_1.png)
 
+![HR Analysis Dashboard](HR_Analysis_Dashboard_2.png)
+## ✅ Final Notes
+This HR Attrition Analysis project provided valuable insights into employee turnover patterns using real-world organizational data. By leveraging Microsoft Power BI, I was able to visualize and interpret key trends affecting workforce stability — from departmental attrition spikes to the role of job satisfaction, education, and work-life balance.
 
+Beyond building a visually compelling dashboard, this project helped strengthen my skills in data storytelling, business analysis, and interpreting human behavior through data. The insights generated can help HR departments make more informed decisions around employee retention, resource allocation, and organizational health.
 
+This project reflects my ability to turn raw data into actionable insights — a key asset in any data-driven role.
+
+*Authored By*: **Canaan Olanipekun**
+
+*Date*: **July 2025**
